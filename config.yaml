@@ -27,7 +27,7 @@ Menus:
     - identifier: logs
       name: Teaching Logs
       title: Teaching Practice Logs
-      url: /log
+      url: /logs
       weight: 1
     - identifier: module
       name: Module Details
@@ -52,6 +52,11 @@ Menus:
       title: School Activities
       url: /activities
       weight: 2
+    - identifier: reflections
+      name: Weekly Reflections
+      title: Weekly Reflections
+      url: /reflections
+      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -72,7 +77,7 @@ Menus:
 
 params:
   title: "Jailani Rahman"
-  description: Text about my cool site
+  description: ""
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -145,9 +150,9 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: false
-      name: "Resume"
-      url: "#"
-      download: true
+      name: "Teaching Logs"
+      url: "/logs"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:

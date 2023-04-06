@@ -1,6 +1,6 @@
 +++
-title = "Teaching Practice Logs"
+title = "Teaching Practice"
 author = "Jailani Abdul Rahman"
-description = "Teaching Practice Logs page"
+description = "Teaching Practice"
 date = "2023-01-09"
 +++
