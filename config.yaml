@@ -192,9 +192,11 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "PHP"
+        - "Laravel"
+        - "MySQL"
+        - "Java"
+        - "Spring Framework"
 
   # Experience
   experience:
