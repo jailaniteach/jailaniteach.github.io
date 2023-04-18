@@ -21,3 +21,5 @@ For my teaching practice, I am informed that I will be teaching NS4307 Network P
 Spent the week doing these things. At the same time, conduct Politeknik Brunei's Admission System training for Cikgu Atiqah Musfirah Leong binti Mohd Dennis Leong.
 
 <img src="../resources/week01-a.jpg" width="50%" height="50%"></img>
+
+More details can be found <a href="/activities/pbas-training"> here</a>.
