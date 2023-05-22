@@ -43,7 +43,7 @@ Provide a recap of the topics covered in the course.
 The activities included in this lesson plan were as follows:
 
 Lecture (45 minutes):
-During this session, I conducted a lecture to familiarize students with the examination format and what they should expect. I explained the structure of the examination, including both theory and practical components. Additionally, I highlighted the specific topics that students should revise in preparation for the examination. To enhance their understanding, I presented them with example theory and practical questions. To supplement the lecture, we also watched a relevant video to reinforce their knowledge.
+During this session, I conducted a lecture to familiarize students with the examination format and what they should expect. I explained the structure of the examination, including both theory and practical components. Additionally, I highlighted the specific topics that students should revise in preparation for the examination. To enhance their understanding, I presented them with example theory and practical questions. To supplement the lecture, we also watched a video how to prepare for examination: https://www.youtube.com/watch?v=B9SptdjpJBQ
 
 Exercise (1 hour 15 minutes):
 Following the lecture, I assigned specific questions to individual students, allowing them to attempt past year papers. By allocating students to answer specific questions, I aimed to ensure that each student engaged with the material and had the opportunity to demonstrate their understanding. This exercise served as a practical application of their knowledge, enabling them to practice and refine their skills in a timed setting.
