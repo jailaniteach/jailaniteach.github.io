@@ -10,9 +10,17 @@ author: Jailani Rahman
 authorEmoji: 💻
 ---
 
-## Lesson Date: 28/01/2023
+## First Session
 
-As an educator, I successfully implemented a lesson plan on the topic of version control systems. The primary learning objectives of this module were to ensure that students: (1) were aware of the topics covered in this module, including the aims, learning objectives, and assessment components, (2) could describe the benefits of an automated version control system.
+**Lesson Date**: 23/01/2023
+
+No lesson conducted on this day due to public holiday. This public holiday is already known and planned accordingly when I planned the scheme of works and tentative 16-weeks lesson plan.
+
+## Second Session
+
+**Lesson Date**: 24/01/2023
+
+I successfully implemented a lesson plan on the topic of version control systems. The primary learning objectives of this module were to ensure that students: (1) were aware of the topics covered in this module, including the aims, learning objectives, and assessment components, (2) could describe the benefits of an automated version control system.
 Had a basic understanding of how version control systems work, (3) became familiar with navigating file systems using Bash commands, (4) to achieve these objectives, I structured the lesson plan with the following activities:
 
 During the first lecture, which lasted for 30 minutes, I introduced myself, provided my contact information, and emphasized that all communication should be conducted via email. I explained the purpose and content of the module, emphasizing that a solid understanding of the topics covered in the Introduction to Programming module was crucial for success. Furthermore, I outlined the aims, learning objectives, timeline, and assessment details for the module. Lastly, I provided an overview of the typical weekly class activities.
