@@ -16,6 +16,8 @@ authorEmoji: 💻
 
 No lesson conducted on this day due to public holiday. This public holiday is already known and planned accordingly when I planned the scheme of works and tentative 16-weeks lesson plan.
 
+---
+
 ## Second Session
 
 **Lesson Date**: 24/01/2023
