@@ -12,7 +12,7 @@ authorEmoji: 💻
 
 ## First Session
 
-Lesson Date: 10/02/2023
+Lesson Date: 10/04/2023
 
 The objective of this lesson plan was to enable students to apply the Java Persistence API (JPA) effectively in their database-related projects. The learning objective for this module was as follows:
 
@@ -36,7 +36,7 @@ To mitigate such issues in the future, it may be beneficial to conduct a brief r
 
 ## Second Session
 
-Lesson Date: 11/02/2023
+Lesson Date: 11/04/2023
 
 The objective of this lesson plan was to enable students to apply the Java Persistence API (JPA) effectively in their database-related projects. The learning objective for this module was as follows:
 
