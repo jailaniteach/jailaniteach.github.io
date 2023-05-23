@@ -25,7 +25,7 @@ markup:
 Menus:
   main:
     - identifier: logs
-      name: Teaching Logs
+      name: Teaching Practice Logs
       title: Teaching Practice Logs
       url: /logs
       weight: 1
@@ -50,13 +50,15 @@ Menus:
     - identifier: activities
       name: School Activities
       title: School Activities
-      url: /activities
-      weight: 2
+      url: /logs/activities
+      parent: logs
+      weight: 4
     - identifier: reflections
       name: Weekly Reflections
       title: Weekly Reflections
-      url: /reflections
-      weight: 3
+      url: /logs/reflections
+      parent: logs
+      weight: 5
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -105,21 +107,20 @@ params:
     textAlign: left # default: left
 
   # color preference
-  # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
+  color:
+    textColor:
+    secondaryTextColor:
+    backgroundColor:
+    secondaryBackgroundColor:
+    primaryColor:
+    secondaryColor:
 
-  #   darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-  #     primaryColor:
-  #     secondaryColor:
+    darkmode:
+      textColor: "#F5F5F5"
+      secondaryTextColor: "#F5F5F5"
+      backgroundColor: "#313552"
+      primaryColor: "#F1E0AC"
+      secondaryColor: "#30475E"
 
   # If you want to customize the menu, you can change it here
   navbar:
@@ -127,7 +128,7 @@ params:
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Jailani Rahman" # Brand name for the brand | default is the title variable
-    disableSearch: true
+    disableSearch: false
     # searchPlaceholder: "Search"
     menus:
       disableAbout: false

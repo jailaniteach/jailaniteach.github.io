@@ -1,6 +1,6 @@
 +++
-title = "Weekly Records"
+title = "Teaching Practice Weekly Records"
 author = "Jailani Abdul Rahman"
-description = "Weekly Records page"
+description = "Teaching Practice Weekly Records page"
 date = "2023-01-21"
 +++
