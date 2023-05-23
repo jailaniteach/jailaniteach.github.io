@@ -1,13 +1,11 @@
 ---
-title: Week 09
+title: "Week 09"
 date: 2023-03-18
-description: Teaching log for Week 09
 draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
+author: "Jailani Rahman"
+image: /images/blogs/week09.png
+description: ""
+toc:
 ---
 
 ## First Session & Second Session

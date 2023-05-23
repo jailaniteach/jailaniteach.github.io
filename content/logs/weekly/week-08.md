@@ -1,4 +1,13 @@
 ---
+title: "Week 08"
+date: 2023-03-11
+draft: false
+author: "Jailani Rahman"
+image: /images/blogs/week08.png
+description: ""
+toc:
+---
+---
 title: Week 08
 date: 2023-03-11
 description: Teaching log for Week 08

@@ -1,4 +1,13 @@
 ---
+title: "Observation Comments"
+date: 2023-05-13
+draft: false
+author: "Jailani Rahman"
+image: /images/observation.png
+description: ""
+toc:
+---
+---
 title: Observation Comments
 date: 2023-05-13
 description: Observation Comments by Supervisor and Mentor

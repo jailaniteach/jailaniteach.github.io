@@ -1,13 +1,11 @@
 ---
-title: Week 01
+title: "Week 01"
 date: 2023-01-21
-description: Teaching log for Week 01
 draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
+author: "Jailani Rahman"
+image: /images/blogs/week01.png
+description: ""
+toc:
 ---
 
 I am posted to School of Information and Communication Technology (SICT) in Politeknik Brunei for my teaching practice. I met with Cikgu Mohammad Hamdani Mustapa, Head of SICT, Cikgu Amal Umi Hafizah binti Md Yusoff, Assistant Head of SICT (Academic) and my assigned mentor Cikgu Tan Szu Tak, Assistant Head of SICT (Administration).
