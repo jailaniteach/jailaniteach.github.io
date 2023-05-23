@@ -7,17 +7,6 @@ image: /images/observation.png
 description: ""
 toc:
 ---
----
-title: Observation Comments
-date: 2023-05-13
-description: Observation Comments by Supervisor and Mentor
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
----
 
 In general, the feedback I received from my supervisor and mentor regarding my lesson planning, lesson delivery, knowledge competence, classroom management, teaching aids, observation, self-reflection, and development has been mainly positive. However, there are areas for improvement that we will discuss based on these feedbacks.
 
