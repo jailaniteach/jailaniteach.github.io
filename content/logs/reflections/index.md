@@ -1,7 +1,7 @@
 ---
-title: PB Open Day
-date: 2023-01-21
-description: PB Open Day
+title: Weekly Reflections
+date: 2023-01-09
+description: Weekly Reflections
 draft: false
 hideToc: false
 enableToc: true
