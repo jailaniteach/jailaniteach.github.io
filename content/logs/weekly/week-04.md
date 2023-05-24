@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-# First Session
+<div class="h1"><u>PB Academic Week 03</u></div>
+
+## 1. First Session
 
 **Lesson Date:** 06/02/2023
 
@@ -35,7 +37,7 @@ Overall, the lesson plan effectively achieved the learning objectives of reviewi
 
 ---
 
-# Second session
+## 2. Second session
 
 **Lesson Date:** 07/02/2023
 
@@ -56,3 +58,8 @@ During the lecture, I dedicated an additional 15 minutes to explain how objects 
 At the start of the practical exercise, I had to guide the students on connecting their Java projects to GitHub once again. It was apparent that some students had forgotten the steps since a week had passed since the initial instruction. I allocated 10 minutes to guide them through the process. It is crucial to recognize that without regular practice, students may forget certain steps or concepts. To accommodate students who were unable to complete the exercise by the end of the class, I requested that they finish it at home and upload their project to GitHub.
 
 Overall, the lesson plan effectively achieved the learning objective of understanding and applying Java binary input and output. Reflecting on the session, I acknowledge the importance of reinforcing key concepts and procedures when students have had a significant time gap since the initial instruction. By providing additional explanations and offering guidance during the practical exercises, I aimed to foster a stronger grasp of the material and facilitate a more successful learning experience.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK3_MJA.pdf">}}

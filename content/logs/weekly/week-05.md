@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 04</u></div>
+
+## 1. First Session
 
 **Lesson Date:** 13/02/2023
 
@@ -30,7 +32,7 @@ However, during the implementation of the server application that handled multip
 Overall, the lesson plan effectively achieved the learning objectives of understanding client-server applications and implementing basic client-server functionality. Reflecting on the session, I recognize the importance of adapting examples and exercises to address students' comprehension challenges. Additionally, I have learned that a careful approach to code organization and implementation demonstration can significantly impact students' understanding and reduce confusion during practical sessions. By making these adjustments, I aim to enhance the effectiveness of future lessons on client-server applications.
 
 
-## Second Session
+## 2. Second Session
 
 **Lesson Date:** 14/02/2023
 
@@ -49,3 +51,8 @@ During the practical session, I focused on implementing best practices, which re
 During the exercise session, I noticed that some students struggled with approaching the problem. It became apparent that some of them had forgotten the basics of client-server applications. This highlighted the need for more practice to solidify their understanding of the client-server concept and to refresh their knowledge from the introduction to programming and object-oriented programming modules.
 
 Based on these observations, I will incorporate additional exercises and examples in future sessions to reinforce the fundamental concepts and ensure that students have a solid grasp of client-server application development. By providing more opportunities for practice and revisiting essential topics, I aim to enhance students' understanding and confidence in implementing basic client-server applications.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK4_MJA.pdf">}}

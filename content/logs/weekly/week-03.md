@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 02</u></div>
+
+## 1. First Session
 
 **Lesson Date:** 30/01/2023
 
@@ -37,7 +39,7 @@ Overall, the lesson plan effectively covered the learning objective of applying 
 
 ---
 
-## Second Session
+## 2.Second Session
 
 **Lesson Date**: 31/01/2023
 
@@ -62,3 +64,8 @@ It was noted that some students were using older versions of the Eclipse IDE tha
 Another issue that arose was that the Eclipse IDE Git plugin did not support HTTPS authentication. This oversight occurred because I had previously set up my computer to use SSH authentication when testing the Eclipse IDE Git plugin. Fortunately, the Eclipse IDE had a built-in RSA key generation feature that could be used for SSH authentication.
 
 Overall, the lesson plan effectively covered the learning objectives related to collaboration with GitHub. Reflecting on the session, I will ensure to provide clearer instructions regarding the version compatibility and authentication requirements when using the Eclipse IDE with Git.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK2_MJA.pdf">}}

@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 13</u></div>
+
+## 1. First Session
 
 Lesson Date: 17/04/2023
 
@@ -33,7 +35,7 @@ Overall, the session was productive, and students were able to grasp the concept
 
 ---
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 18/04/2023
 
@@ -52,3 +54,8 @@ However, some groups encountered unexpected issues during the session. GitHub un
 In future sessions, it is important to remind students about the potential challenges they may encounter when using collaborative platforms such as GitHub and emphasize the importance of regular backups and version control practices. Additionally, it may be beneficial to allocate some time in advance to ensure that students are familiar with the platform and its features to minimize such disruptions.
 
 Overall, the group consultation session was productive, and students were actively engaged in refining their Assignment 2 solutions. It provided an opportunity for personalized support and guidance, ensuring that students were on track with their assignments. Addressing unexpected issues as they arose helped to create a more conducive learning environment and facilitated the smooth progress of the session.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK13_MJA.pdf">}}

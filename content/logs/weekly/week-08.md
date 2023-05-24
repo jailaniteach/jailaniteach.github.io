@@ -7,19 +7,10 @@ image: /images/blogs/week08.png
 description: ""
 toc:
 ---
----
-title: Week 08
-date: 2023-03-11
-description: Teaching log for Week 08
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
----
 
-## First Session
+<div class="h1"><u>PB Academic Week 07</u></div>
+
+## 1. First Session
 
 Lesson Date: 06/03/2023
 
@@ -39,7 +30,7 @@ Moving forward, I will ensure to adjust the duration of the lecture accordingly 
 
 ---
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 07/03/2023
 
@@ -58,3 +49,8 @@ Some students encountered difficulties in collaborating using GitHub, particular
 To address these challenges, I encouraged students to come and see me even during the semester break for any issues they encounter with the assignment and GitHub. By providing ongoing support and guidance, I aim to ensure that students can overcome any obstacles they face and successfully complete their assignments.
 
 Moving forward, I will continue to emphasize the importance of committing changes before pulling updates and provide additional resources and guidance on using version control effectively. I will also explore additional opportunities for students to practice and enhance their collaboration skills using tools like GitHub.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK7_MJA.pdf">}}

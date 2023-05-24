@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Lesson
+<div class="h1"><u>PB Academic Week 10</u></div>
+
+## 1. First Lesson
 
 Lesson Date: 27/03/2023
 
@@ -33,7 +35,7 @@ In future sessions, I will allocate more time for exercise discussions and ensur
 Moving forward, I will continue to create an engaging learning environment and provide resources that support students' understanding of handling HTTP requests. I will also encourage students to seek clarification and assistance whenever they encounter difficulties, ensuring that their learning experience remains productive and effective.
 
   
-## Second Lesson
+## 2. Second Lesson
 
 Lesson Date: 28/03/2023
   
@@ -52,3 +54,8 @@ During the practical session, I encountered an issue when covering updating and 
 Moving forward, I will allocate ample time to cover the necessary SQL operations, including updating and deleting data, to ensure students have a comprehensive understanding of these important concepts. I will also emphasize the significance of primary keys and demonstrate their implementation in practical examples. By doing so, I aim to provide students with a solid foundation in SQL and empower them to apply this knowledge effectively in their future database projects.
 
 Furthermore, I will continue to explore additional resources and teaching materials to enhance students' understanding of SQL concepts and their practical applications. Encouraging active participation, addressing student queries, and providing hands-on exercises will remain key strategies in creating an engaging and effective learning experience.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK10_MJA.pdf">}}

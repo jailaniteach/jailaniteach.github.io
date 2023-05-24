@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 09</u></div>
+
+## 1. First Session
 
 Lesson Date: 20/03/2023
 
@@ -32,7 +34,7 @@ Furthermore, some students forgot to include the @Component annotation on their 
 
 Moving forward, I will provide additional examples and hands-on exercises to reinforce the concepts of data repositories and their integration with controllers and Thymeleaf templates. I will also encourage regular coding practice to ensure that students retain their understanding of the concepts and develop proficiency in implementing data repositories.
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 21/03/2023
 
@@ -52,3 +54,8 @@ While conducting the practical session, I observed that some students were still
 Based on the challenges faced during the practical session, it became evident that there is a need to cover the topic of HTTP requests more thoroughly. I plan to dedicate ample time in the next session to cover this topic in detail. By doing so, I hope to address any lingering confusion or difficulties that students may have encountered while working on their projects.
 
 Moving forward, I will incorporate more interactive activities and practical exercises to reinforce the concepts of dynamic page generation and HTTP request handling. These activities will allow students to apply their knowledge in a hands-on manner, further solidifying their understanding of the concepts. Additionally, I will closely monitor student progress and provide timely support to address any challenges they may encounter.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK9_MJA.pdf">}}

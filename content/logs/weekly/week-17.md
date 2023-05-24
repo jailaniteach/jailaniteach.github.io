@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 16</u></div>
+
+## 1. First Session
 
 Lesson Date: 08/05/2023
 
@@ -30,7 +32,7 @@ Overall, the group consultation session was productive, with students actively s
 
 ---
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 09/05/2023
 
@@ -57,3 +59,8 @@ I am pleased to report that the majority of the students managed to answer their
 The exercise and discussion sessions provided an effective platform for students to consolidate their knowledge, clarify doubts, and gain confidence in their understanding of the topics. By actively engaging with the past year papers and discussing their answers, students were able to identify areas where they needed further review or practice. This process not only reinforced their knowledge but also helped them develop effective examination strategies.
 
 Overall, the lesson plan successfully achieved its objectives of familiarizing students with the examination format, revising key topics, and providing practice opportunities. As an educator, I will continue to encourage students to review and practice independently to further strengthen their understanding and readiness for the upcoming examinations.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK16_MJA.pdf">}}

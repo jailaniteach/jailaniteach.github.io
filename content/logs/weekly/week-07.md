@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Lesson
+<div class="h1"><u>PB Academic Week 06</u></div>
+
+## 1. First Lesson
 
 **Lesson Date:** 27/02/2023
 
@@ -31,7 +33,7 @@ Moving forward, I will ensure that I thoroughly test and validate the tools and 
 
 ---
 
-## Second Lesson
+## 2. Second Lesson
 
 **Lesson Date:** 28/02/2023
 
@@ -56,3 +58,8 @@ Another issue arose when connecting the Spring application with Thymeleaf. It wa
 I dedicated 10 minutes to demonstrate the difference between context-relative URLs and server-relative URLs by changing the server.servlet.context-path attribute in the application.properties file to "/myapp".
 
 Overall, the students were able to effectively utilize Thymeleaf and its URL syntax. Moving forward, I will continue to emphasize the importance of understanding HTML tags and their integration with the Spring Framework, and ensure that the issue with Spring Tool Suite excluding the src/main/resources folder is addressed promptly to prevent any hindrance to the students' progress.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK6_MJA.pdf">}}

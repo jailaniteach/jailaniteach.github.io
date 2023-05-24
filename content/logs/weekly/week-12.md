@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Lesson
+<div class="h1"><u>PB Academic Week 11</u></div>
+
+## 1. First Lesson
 
 Lesson Date: 03/04/2023
 
@@ -28,7 +30,7 @@ Moreover, I will explore additional resources and examples to showcase advanced 
 
 ---
 
-## Second Lesson
+## 2. Second Lesson
 
 Lesson Date: 04/04/2023
 
@@ -52,3 +54,8 @@ Another important note is that the dependency "mysql.mysql-connector-java" is no
 ```
 
 To further support students in their understanding and implementation of Spring Data JPA and SQL, additional resources, examples, and practice exercises will be provided. Furthermore, troubleshooting common issues encountered during the setup process will be addressed proactively in future sessions to minimize disruptions and ensure smooth progress for all students.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK11_MJA.pdf">}}

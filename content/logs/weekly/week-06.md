@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 05</u></div>
+
+## 1. First Session
 
 **Lesson Date:** 20/02/2023
 
@@ -30,7 +32,7 @@ Considering the time constraints and the need to cover the exercise implementati
 
 In the future, I will allocate more time for practical sessions, taking into account potential challenges and misconceptions that students may face. By providing sufficient time and addressing any misconceptions promptly, I aim to ensure that students have a better understanding of the concepts and are able to complete the implementation within the designated time frame.
 
-## Second Session
+## 2. Second Session
 
 **Lesson Date:** 21/02/2023
 
@@ -53,3 +55,8 @@ During the practical session, I encountered an issue where some students complai
 In hindsight, I realized that I had forgotten to inform the students about their quizzes that were scheduled for the same week. To address this oversight, I allowed the students to complete the quizzes during the session and informed them that they could attempt the exercise on their own time. I assured them that I would provide the exercise details at a later date.
 
 In future instances, I will make a note to ensure that all necessary information, such as quiz schedules, is communicated to the students in a timely manner. This will help avoid any confusion and ensure that students can effectively manage their workload and allocate sufficient time to complete all required tasks.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK5_MJA.pdf">}}

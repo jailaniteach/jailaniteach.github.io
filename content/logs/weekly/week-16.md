@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 15</u></div>
+
+## 1. First Session
 
 Lesson Date: 01/05/2023
 
@@ -32,7 +34,7 @@ Overall, despite the time taken to address the GitHub issues, the consultation s
 
 ---
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 02/05/2023
 
@@ -49,3 +51,8 @@ Throughout the consultation session, I focused on helping students align their s
 By encouraging students to apply their foundational programming knowledge and providing guidance on where to look for relevant concepts, I aimed to foster their problem-solving skills and empower them to take ownership of their assignments. While the module did not mandate the use of Spring's validation tools, I highlighted their availability as an optional resource for those interested in exploring advanced validation techniques.
 
 Overall, the group consultation session was productive, with students actively seeking guidance and refining their Assignment 2 solutions. By addressing their concerns and providing hints to reinforce their programming skills, I ensured that students were making progress and were better equipped to complete their assignments successfully. Encouraging them to leverage their existing knowledge while introducing optional resources expanded their understanding and promoted a deeper exploration of validation techniques in their implementations.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK15_MJA.pdf">}}

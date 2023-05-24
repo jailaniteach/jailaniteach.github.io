@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## 1. Log Description
+<div class="h1"><u>PB Preparation Week</u></div>
+
+## 1. Description
 
 I am posted to School of Information and Communication Technology (SICT) in Politeknik Brunei for my teaching practice. I met with Cikgu Mohammad Hamdani Mustapa, Head of SICT, Cikgu Amal Umi Hafizah binti Md Yusoff, Assistant Head of SICT (Academic) and my assigned mentor Cikgu Tan Szu Tak, Assistant Head of SICT (Administration).
 
@@ -36,3 +38,4 @@ More details of this training can be found <a href="/activities/pbas-training"> 
 
 ### 1.2. Tentative 16 weeks of weekly lesson plan
 <div id="nep_wlp_init">{{<embed-pdf url="../resources/NS4307_NEP_WLP_INITIAL.pdf">}}</div>
+

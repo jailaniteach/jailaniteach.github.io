@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 12</u></div>
+
+## 1. First Session
 
 Lesson Date: 10/04/2023
 
@@ -32,7 +34,7 @@ To mitigate such issues in the future, it may be beneficial to conduct a brief r
 
 ---
 
-## Second Session
+## 2. Second Session
 
 Lesson Date: 11/04/2023
 
@@ -51,3 +53,8 @@ During the session, I realized that there was an issue with the code from the pr
 To improve the flow and efficiency of future sessions, it is important to thoroughly review and test the exercises in advance to identify any potential issues or conflicts with the subsequent sessions. Additionally, providing clear instructions and code templates for the exercises can help streamline the implementation process and allow more time for covering additional topics.
 
 Overall, the session was productive, and students were able to grasp the concepts of JPA implementation. By addressing the pending topics in the next session, students will have a complete understanding of how to perform all CRUD operations using JPA.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK12_MJA.pdf">}}

@@ -8,7 +8,9 @@ description: ""
 toc:
 ---
 
-## First Session
+<div class="h1"><u>PB Academic Week 01</u></div>
+
+## 1. First Session
 
 **Lesson Date**: 23/01/2023
 
@@ -16,7 +18,7 @@ No lesson conducted on this day due to public holiday. This public holiday is al
 
 ---
 
-## Second Session
+## 2. Second Session
 
 **Lesson Date**: 24/01/2023
 
@@ -35,3 +37,8 @@ Reflective Evaluation:
 It became evident during the practical session on Git that some students had difficulty grasping the concept due to limited understanding of how file systems work. Therefore, in the upcoming week, I plan to place greater emphasis on explaining how Git works during the practical session. This additional focus will help students visualize the connection between version control and file systems.
 
 Overall, I believe the lesson plan effectively covered the learning objectives for this module. The combination of lectures and practical exercises allowed students to gain an understanding of version control systems and develop practical skills in using Git and Bash commands for file system navigation.
+
+---
+
+## 3. Lesson Plan
+{{<embed-pdf url="../resources/NEP_LP_S2_23_WK1_MJA.pdf">}}
