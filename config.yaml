@@ -1,7 +1,9 @@
 baseURL: "https://jailaniteach.github.io"
 languageCode: "en-us"
 title: "Jailani Rahman"
-theme: hugo-profile
+# theme: hugo-profile
+theme: ["hugo-embed-pdf-shortcode", "hugo-profile"]
+enableInlineShortcodes: true
 
 outputs:
   home:
