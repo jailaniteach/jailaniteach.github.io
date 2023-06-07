@@ -37,30 +37,36 @@ Menus:
       url: /logs/module
       parent: logs
       weight: 1
+    - identifier: resources
+      name: Module Resources
+      title: Teaching Practice Module Resources
+      url: /logs/resources
+      parent: logs
+      weight: 2
     - identifier: weekly
       name: Weekly Records
       title: Teaching Practice Weekly Records
       url: /logs/weekly
       parent: logs
-      weight: 2
+      weight: 3
     - identifier: observation
       name: Observation Feedbacks
       title: Teaching Practice Observation Feedbacks
       url: /logs/observation
       parent: logs
-      weight: 3
+      weight: 4
     - identifier: activities
       name: School Activities
       title: School Activities
       url: /logs/activities
       parent: logs
-      weight: 4
+      weight: 5
     - identifier: reflections
       name: Weekly Reflections
       title: Weekly Reflections
       url: /logs/reflections
       parent: logs
-      weight: 5
+      weight: 6
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
