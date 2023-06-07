@@ -1,13 +1,11 @@
 ---
-title: Weekly Reflections
-date: 2023-01-09
-description: Weekly Reflections
+title: "Weekly Reflections"
+date: 2023-06-07
 draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
+author: "Jailani Rahman"
+image: /images/reflections.png
+description: ""
+toc:
 ---
 
 **Reflections from February 2023**
