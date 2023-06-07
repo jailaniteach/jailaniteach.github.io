@@ -1,6 +1,6 @@
 ---
 title: "01 - Module Induction"
-date: 2023-05-13
+date: 2023-01-29
 draft: false
 author: "Jailani Rahman"
 image: /images/topic01_banner.png

@@ -1,6 +1,6 @@
 ---
 title: "09 - Java Persistence API"
-date: 2023-05-13
+date: 2023-04-16
 draft: false
 author: "Jailani Rahman"
 image: /images/topic09_banner.png

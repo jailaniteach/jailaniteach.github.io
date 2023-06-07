@@ -1,6 +1,6 @@
 ---
 title: "02 - Git"
-date: 2023-05-13
+date: 2023-02-05
 draft: false
 author: "Jailani Rahman"
 image: /images/topic02_banner.png

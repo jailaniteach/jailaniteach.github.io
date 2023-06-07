@@ -1,6 +1,6 @@
 ---
 title: "08 - MySQL"
-date: 2023-05-13
+date: 2023-04-08
 draft: false
 author: "Jailani Rahman"
 image: /images/topic08_banner.png
