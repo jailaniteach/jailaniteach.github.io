@@ -1,33 +1,31 @@
 ---
-title: Module Details
+title: "Module Details"
 date: 2023-01-09
-description: Module details, timetable and scheme of works
 draft: false
-hideToc: false
-enableToc: true
-enableTocContent: true
-author: Jailani Rahman
-authorEmoji: 💻
+author: "Jailani Rahman"
+image: /images/moduledetails.png
+description: ""
+toc:
 ---
 
-## Module information
-### Description
+## 1. Module information
+### 1.1. Description
 This module focuses on the design and implementation of client-server applications. Reviewing two (2) standard internet protocols; Transmission Control Protocol (TCP) and User Datagram Protocol (UDP), which are useful for implementing network applications using socket application programming interface. Introduce students to concurrent programming and web applications development.
 
-### Aims
+### 1.2. Aims
 This module aims to expose students with knowledge and skills to develop client-server applications
 
-### Objectives
+### 1.3. Objectives
 Upon completion of this module, students should be able to:
 - Understand the key protocols that support the Internet.
 - Familiarise with programming interfaces for network communication.
 - Have detailed knowledge of the tools needed to construct client-server applications.
 
-## Module timetable
+## 2. Module timetable
 
 ![](resources/teaching-timetable.png)
 
-## Scheme of works
+## 3. Scheme of works
 
 **Programme:** IT Network and Security
 
@@ -60,7 +58,7 @@ Upon completion of this module, students should be able to:
 | 16 | 15/05 – 21/05 | Revision Week |  |
 | 17+ | 22/05 - 18/06 | Examination & Resit Week | 31/05 – Royal Brunei Armed Forces Anniversary |
 
-## Assessment details
+## 4. Assessment details
 
 | Assessment | Related Topics | Date of Assessment | Weightage |
 | --- | --- | --- | --- |
@@ -68,3 +66,11 @@ Upon completion of this module, students should be able to:
 | Assignment | Introduction to Network Programming, Java Binary Input Output and Java Socket | 20/02/2023 - 20/03/2023 (First Attempt), 10/04/2023 - 29/04/2023 (Second Attempt) | 25% |
 | Assignment | Java Web Application, Database, MySQL and Java Persistence API | 25/03/2023 - 27/04/2023 (First Attempt), 08/05/2023 - 20/05/2023 (Second Attempt) | 25% |
 | Examination | All topics | Examination Week | 40% |
+
+## 5. Scheme of work
+
+<div id="nep_sow">{{<embed-pdf url="./resources/NS4307_NEP_SOW.pdf">}}</div>
+<br/><br/>
+
+## 6. Tentative 16 weeks of weekly lesson plan
+<div id="nep_wlp_init">{{<embed-pdf url="./resources/NS4307_NEP_WLP_INITIAL.pdf">}}</div>
