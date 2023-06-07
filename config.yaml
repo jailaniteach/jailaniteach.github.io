@@ -380,7 +380,7 @@ params:
       path: "logs"
       count: 6
       title: Teaching Practice Logs
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/jailanihar
@@ -394,7 +394,7 @@ params:
   # Single pages like blog and post
   singlePages:
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
