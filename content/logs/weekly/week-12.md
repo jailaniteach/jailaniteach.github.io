@@ -1,5 +1,5 @@
 ---
-title: "Week 12"
+title: "Teaching Practice Week 12"
 date: 2023-04-08
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Lesson
 
-Lesson Date: 03/04/2023
+**Lesson Date:** 03/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to ensure students can apply Structured Query Language (SQL) effectively in their database-related projects. The learning objective for this module was as follows:
 
@@ -21,7 +23,7 @@ The activities included in this lesson plan were conducted during a practical se
 
 During the practical session, I covered various topics to enhance students' understanding and application of SQL. I demonstrated how to implement primary keys in database tables and provided examples of deleting and changing primary keys. Furthermore, I explained the concept of an Entity Relationship Diagram (ERD) and how to implement it in MySQL. I also showed students how to implement foreign keys in database tables, including examples of deleting and changing foreign keys. The benefits of using foreign keys were emphasized to highlight their significance in maintaining data integrity. Additionally, I explained how to implement auto-increment functionality in MySQL. Throughout the session, I reiterated that there are more advanced techniques available in MySQL beyond the basics covered in the lecture notes.
 
-Reflective Evaluation:
+### Reflective Evaluation
 The practical session was completed 30 minutes earlier than scheduled. I utilized the extra time to inquire about the progress of their assignments. It was observed that most of the groups were still in the designing stage, as they had prioritized assessments from other modules. This provided an opportunity for me to discuss their assignment requirements, address any concerns, and provide guidance for their ongoing projects.
 
 To ensure that students remain engaged and actively working on their SQL assignments, I will allocate more time in the upcoming sessions specifically dedicated to discussing their progress, addressing challenges, and providing further assistance as needed. This will allow me to support them effectively in applying their SQL knowledge to practical scenarios.
@@ -32,7 +34,9 @@ Moreover, I will explore additional resources and examples to showcase advanced 
 
 ## 2. Second Lesson
 
-Lesson Date: 04/04/2023
+**Lesson Date:** 04/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to ensure students can apply Structured Query Language (SQL) and utilize Spring Data JPA effectively in their database-related projects. The learning objective for this module was as follows:
 
@@ -43,7 +47,7 @@ During the lecture session, which lasted for 1 hour 30 minutes, I covered variou
 
 During the practical session, which lasted for 30 minutes, I facilitated students in connecting their laptops to the database using Spring Tools Suite. The aim was to ensure that students had a functioning environment to work with Spring Data JPA and MySQL.
 
-Reflective Evaluation:
+### Reflective Evaluation
 As anticipated, there were several errors encountered by students when installing the dependencies for Spring JPA and the MySQL connector. The typical issues were related to the instability of the school's student internet, causing interruptions during the installation process and resulting in errors in their Spring projects. However, by the end of the class, all issues were resolved, and students were able to successfully connect their projects to the database.
 
 Another important note is that the dependency "mysql.mysql-connector-java" is no longer available. It has been replaced with the following:

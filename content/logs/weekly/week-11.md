@@ -1,5 +1,5 @@
 ---
-title: "Week 11"
+title: "Teaching Practice Week 11"
 date: 2023-04-01
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Lesson
 
-Lesson Date: 27/03/2023
+**Lesson Date:** 27/03/2023
+
+### Lesson
 
 The objective of this lesson plan was to equip students with the skills necessary to handle HTTP requests in their projects. The learning objective for this module was as follows:
 
@@ -25,7 +27,7 @@ In the practical session, I demonstrated how to send data with HTTP requests and
 
 During the exercise session, I facilitated the implementation of adding students, allowing students to practice and apply their knowledge of handling HTTP requests.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the exercise session, I unfortunately ran out of time and was unable to discuss the solution to the exercise with the students. To ensure they had access to the solution, I decided to share it through GitHub Gist. The solution can be found at the following link: https://gist.github.com/jailanihar/c714e5235c8d7a48a3e2eb6eb72a9931.
 
 Additionally, I realized that the List<Student> ALL_STUDENTS = Arrays.asList(...) approach had a limitation. Due to the abstract nature of the List interface, it was not possible to add new data to it. To overcome this limitation, I advised the students to convert the List to an ArrayList and use the appropriate constructor to add the hardcoded students.
@@ -37,8 +39,10 @@ Moving forward, I will continue to create an engaging learning environment and p
   
 ## 2. Second Lesson
 
-Lesson Date: 28/03/2023
+**Lesson Date:** 28/03/2023
   
+### Lesson
+
 The objective of this lesson plan was to ensure students understand and can apply Structured Query Language (SQL) in their database-related projects. The learning objective for this module was as follows:
 
 Understand and apply Structured Query Language (SQL).
@@ -48,7 +52,7 @@ During the lecture session, I showed the first part of a video https://www.youtu
 
 In the practical session, I focused on familiarizing students with MySQL using phpMyAdmin. I demonstrated how to create, choose, and delete databases in MySQL. Additionally, I showed students how to create, delete, and alter database tables. Practical examples were given to illustrate inserting and retrieving data from database tables, including retrieving data with conditions and using logical operators. I also demonstrated how to retrieve data from multiple database tables and edit existing data.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the practical session, I encountered an issue when covering updating and deleting data using SQL statements. Initially, I had planned to rely on the phpMyAdmin user interface for these operations. However, due to the absence of a primary key in the tables created during the practical, phpMyAdmin restricted access to these operations through its user interface. To address this limitation, I will ensure that next week, after creating tables with primary keys, I show the students how to perform these operations using both SQL statements and the phpMyAdmin interface.
 
 Moving forward, I will allocate ample time to cover the necessary SQL operations, including updating and deleting data, to ensure students have a comprehensive understanding of these important concepts. I will also emphasize the significance of primary keys and demonstrate their implementation in practical examples. By doing so, I aim to provide students with a solid foundation in SQL and empower them to apply this knowledge effectively in their future database projects.

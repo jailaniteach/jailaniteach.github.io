@@ -1,5 +1,5 @@
 ---
-title: "Week 03"
+title: "Teaching Practice Week 03"
 date: 2023-02-04
 draft: false
 author: "Jailani Rahman"
@@ -14,6 +14,8 @@ toc:
 
 **Lesson Date:** 30/01/2023
 
+### Lesson
+
 I successfully implemented a lesson plan focused on the basic concepts of Git. The main learning objective of this module was for students to apply the fundamentals of Git effectively.
 
 To achieve this objective, the lesson plan included the following activities:
@@ -24,7 +26,7 @@ Following the practical session, a 15-minute online quiz was administered via th
 
 To further reinforce the learning, an exercise on Git was conducted, which lasted for 1 hour and 45 minutes. Students were given exercises 01, 02, and 03 to complete, which were posted on PBLMS. If students finished early, they were instructed to continue with exercises 04 and 05.
 
-Reflective Evaluation:
+### Reflective Evaluation
 The first practical session on Git ran longer than expected and concluded at 9:12 am. To ensure better comprehension, I provided additional explanations, emphasizing the concepts of the working directory, staging area, and Git directory.
 
 All students managed to complete the online quiz within the allocated time, demonstrating their understanding of the covered material.
@@ -43,6 +45,8 @@ Overall, the lesson plan effectively covered the learning objective of applying 
 
 **Lesson Date**: 31/01/2023
 
+### Lesson
+
 I successfully implemented a lesson plan focused on teaching students how to collaborate using GitHub. The learning objectives of this module were as follows:
 
 Students should personally own a GitHub account.
@@ -56,7 +60,7 @@ In the practical session, which lasted for 1 hour, I guided the students through
 
 To reinforce the learning, an exercise was conducted, lasting for 1 hour and 40 minutes. Students were given Git exercises 06, 07, and 08, which were posted on PBLMS.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the session, I discovered that students already had GitHub accounts registered during their Basic Web Programming module. This saved time that I had initially allocated for account registration. As a result, I was able to utilize the extra time to integrate the Eclipse IDE with Git and assist the students in becoming familiar with using Git through the Eclipse IDE.
 
 It was noted that some students were using older versions of the Eclipse IDE that did not have the Git plugin installed automatically. Due to slow internet connections, some students had to make multiple attempts to successfully install the plugin.

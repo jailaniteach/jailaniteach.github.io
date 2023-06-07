@@ -1,5 +1,5 @@
 ---
-title: "Week 17"
+title: "Teaching Practice Week 17"
 date: 2023-05-13
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Session
 
-Lesson Date: 08/05/2023
+**Lesson Date:** 08/05/2023
+
+### Lesson
 
 The learning objective of this lesson plan was to ensure that students were on the right track with their Assignment 2. The objective for this session was as follows:
 
@@ -21,7 +23,7 @@ The main activity included in this lesson plan was a group consultation session,
 
 During the group consultation session, students were given dedicated time to consult with me and refine their solutions for Assignment 2. The purpose of this session was to guide students in finalizing their work and assist with any issues they were encountering in their implementations. I provided personalized support, answered questions, and offered suggestions for improvement based on their individual progress.
 
-Reflective Evaluation:
+### Reflective Evaluation
 Throughout the consultation session, I focused on helping students align their solutions with the assignment requirements and providing guidance on how to refine their implementations. I addressed any issues they were facing and offered suggestions for improvement, aiming to ensure that their solutions were on the right track.
 
 It was observed that some students encountered difficulties with GitHub and its integration with the Spring Tool Suite (STS). To bypass these issues, some students opted to directly interact with the GitHub website instead of relying on the STS interface. While this workaround allowed them to continue working on their assignments, it highlighted the importance of troubleshooting and finding alternative solutions when faced with technical challenges.
@@ -34,7 +36,9 @@ Overall, the group consultation session was productive, with students actively s
 
 ## 2. Second Session
 
-Lesson Date: 09/05/2023
+**Lesson Date:** 09/05/2023
+
+### Lesson
 
 The learning objectives of this lesson plan were as follows:
 
@@ -51,7 +55,7 @@ Following the lecture, I assigned specific questions to individual students, all
 Discussion (1 hour):
 In the final hour of the session, we engaged in a group discussion to review and discuss the students' answers to the assigned questions. This allowed students to compare their approaches, identify areas of improvement, and clarify any doubts they had. Through this interactive discussion, I facilitated peer learning and provided additional explanations and insights where necessary.
 
-Reflective Evaluation:
+### Reflective Evaluation
 One observation from the exercise and discussion sessions was that some students took time to recall and apply the concepts they had learned. However, I am pleased to note that overall, students actively collaborated and worked together to solve the past year paper questions. This cooperative learning environment fostered critical thinking and problem-solving skills among the students.
 
 I am pleased to report that the majority of the students managed to answer their respective questions correctly. However, there were instances where students made minor errors or mistakes due to oversight or lack of attention. These mistakes served as valuable learning opportunities, emphasizing the importance of careful reading and attention to detail during examinations.

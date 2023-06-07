@@ -1,5 +1,5 @@
 ---
-title: "Week 06"
+title: "Teaching Practice Week 06"
 date: 2023-02-25
 draft: false
 author: "Jailani Rahman"
@@ -14,6 +14,8 @@ toc:
 
 **Lesson Date:** 20/02/2023
 
+### Lesson
+
 The objective of this lesson plan was to enable students to implement a basic client-server application. The learning objective for this module was as follows:
 
 Able to implement a basic Client-Server Application.
@@ -23,7 +25,7 @@ During the 1-hour 30-minute practical session, I facilitated the implementation 
 
 During the 1-hour 30-minute exercise session, I facilitated the implementation of a server-client playing the cangkul card game. The rules of the game were provided to the students, and they were tasked with implementing the game based on those rules.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the practical session, I underestimated the time required to implement the guessing game, especially when including the advanced features. It took approximately 2 hours and 30 minutes to complete the implementation, exceeding the allotted time. As a result, most students were unable to finish the advanced requirements within the given time frame. In the last 30 minutes, I allocated time for students to read through the rules of the cangkul card game, which would be the focus of the next session.
 
 One of the contributing factors to the extended time needed during the practical session was the misconception among students regarding how to handle two clients in one server and how to manage multiple sessions with two clients. However, the students thoroughly enjoyed seeing the results of their implementations and were eager to try it out themselves.
@@ -36,6 +38,8 @@ In the future, I will allocate more time for practical sessions, taking into acc
 
 **Lesson Date:** 21/02/2023
 
+### Lesson
+
 The objective of this lesson plan was to enable students to implement a basic client-server application. The learning objective for this module was as follows:
 
 Able to implement a basic Client-Server Application.
@@ -47,7 +51,7 @@ During the 1-hour 30-minute practical session, I facilitated the implementation 
 
 During the 30-minute exercise session, I facilitated the implementation of a server-client playing the cangkul card game. The rules of the game were provided to the students, and they were tasked with implementing the game based on those rules.
 
-Reflective Evaluation:
+### Reflective Evaluation
 Some students felt pressured when reviewing the assignment brief as they tended to overthink the features they needed to implement. To address this, I emphasized that they could focus on a small part of the theme and break it down into manageable features. This helped alleviate some of the pressure and allowed them to approach the assignment more confidently.
 
 During the practical session, I encountered an issue where some students complained that their application was not working. Upon investigation, I discovered that these students were only running two clients instead of the required three clients. I intervened and emphasized to the entire class that running all three clients was crucial for the application to function properly. I demonstrated the misconception to the students and reiterated the importance of following the instructions accurately.

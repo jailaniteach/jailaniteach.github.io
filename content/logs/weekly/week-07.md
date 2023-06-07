@@ -1,5 +1,5 @@
 ---
-title: "Week 07"
+title: "Teaching Practice Week 07"
 date: 2023-03-04
 draft: false
 author: "Jailani Rahman"
@@ -14,6 +14,8 @@ toc:
 
 **Lesson Date:** 27/02/2023
 
+### Lesson
+
 The objective of this lesson plan was to enable students to identify the tools needed for building web applications using the Spring Framework and to implement a basic response for a Uniform Resource Identifier (URI). The learning objectives for this module were as follows:
 
 Identify the tools needed for building web applications using the Spring Framework.
@@ -24,7 +26,8 @@ During the 2-hour lecture, I explained the required tools for this topic and int
 
 During the 1-hour practical session, I facilitated the installation of Spring Tool Suite and Maven Repository for the students and guided them through the process of creating a Maven project.
 
-Reflective Evaluation:
+### Reflective Evaluation
+
 I encountered a major issue during the practical session where half of the students' implementations did not work as expected. Despite my efforts, I was unable to resolve the issue within the allotted class time. However, a few students who were experiencing the issue stayed back to seek further assistance during the afternoon session.
 
 To address the issue, I conducted extensive research and attempted various solutions, such as using the @RestController annotation, clearing the Maven repository and re-downloading dependencies, and adding @ComponentScan. After nearly 1 hour and 30 minutes of troubleshooting, I discovered that downgrading the Spring Boot version from 3.0.3 to 2.7.9 resolved the problem. Unfortunately, I was unable to determine the exact cause of the issue with version 3.0.3 and why the request mapping was not properly mapped to the Spring application, resulting in an error. However, using the older version allowed us to proceed with covering the topics in this module.
@@ -37,6 +40,8 @@ Moving forward, I will ensure that I thoroughly test and validate the tools and 
 
 **Lesson Date:** 28/02/2023
 
+### Lesson
+
 The objective of this lesson plan was to enable students to implement the controller and view components of the Spring Framework, as well as gain proficiency in basic Thymeleaf syntax. The learning objectives for this module were as follows:
 
 Able to implement the controller component of the Spring Framework.
@@ -48,7 +53,7 @@ During the lecture session, I explained why the current application only showed 
 
 During the practical session, I facilitated the configuration of Maven projects for the students and guided them in implementing a student management system using the concepts covered in the lecture.
 
-Reflective Evaluation:
+### Reflective Evaluation
 I spent 15 minutes ensuring that everyone managed to get their Spring application up and running successfully.
 
 I noticed that only a few students remembered some of the HTML tags from the Basic Web Programming module. To address this, I will make sure to include a recap of the important tags needed in this module to ensure a better understanding of their connection to Spring applications.

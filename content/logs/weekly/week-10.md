@@ -1,5 +1,5 @@
 ---
-title: "Week 10"
+title: "Teaching Practice Week 10"
 date: 2023-03-25
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Session
 
-Lesson Date: 20/03/2023
+**Lesson Date:** 20/03/2023
+
+### Lesson
 
 The objective of this lesson plan was to enable students to implement a data repository in their projects. The learning objectives for this module were as follows:
 
@@ -25,7 +27,7 @@ During the practical session, I facilitated the continued implementation of the 
 
 Additionally, I scheduled an assignment clinic session, which coincided with the deadline day. The purpose of this session was to ensure that students were able to submit their work on GitHub successfully. I provided support and guidance to address any last-minute issues or challenges faced by the students.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the implementation process, I noticed that some students were confused about how to implement ModelMap. I attributed this confusion to the fact that students had not worked with the code for almost two weeks, as they had been primarily focused on completing the assignment before the deadline. To address this, I emphasized and clarified the usage of ModelMap again to ensure students understood its implementation.
 
 I also realized that some students overlooked the requirement of using the @Autowired annotation for each component declaration. Most students did not declare @Autowired for additional components, which caused Spring to produce an error due to the component not being initialized. I reiterated the importance of using @Autowired for each component and clarified that multiple component declarations require separate @Autowired statements.
@@ -36,7 +38,9 @@ Moving forward, I will provide additional examples and hands-on exercises to rei
 
 ## 2. Second Session
 
-Lesson Date: 21/03/2023
+**Lesson Date:** 21/03/2023
+
+### Lesson
 
 The objective of this lesson plan was to enable students to generate dynamic pages and handle HTTP requests in their projects. The learning objectives for this module were as follows:
 
@@ -48,7 +52,7 @@ During the lecture session, I explained the concept of dynamic pages and demonst
 
 During the practical session, I facilitated the continued implementation of the student management system, building upon the concepts covered in the lecture. However, the time allocated for covering dynamic URIs took longer than expected, and we were unable to cover HTTP request handling during this session. I will make sure to address this topic in the upcoming week to ensure students have a comprehensive understanding of handling HTTP requests.
 
-Reflective Evaluation:
+### Reflective Evaluation
 While conducting the practical session, I observed that some students were still experiencing difficulties in understanding the process of passing data to HTML files. In order to address this, I spent additional time providing explanations and clarifications on this topic. By doing so, I aimed to ensure that all students had a solid grasp of this fundamental concept before proceeding further.
 
 Based on the challenges faced during the practical session, it became evident that there is a need to cover the topic of HTTP requests more thoroughly. I plan to dedicate ample time in the next session to cover this topic in detail. By doing so, I hope to address any lingering confusion or difficulties that students may have encountered while working on their projects.

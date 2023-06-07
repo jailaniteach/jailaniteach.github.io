@@ -1,5 +1,5 @@
 ---
-title: "Week 13"
+title: "Teaching Practice Week 13"
 date: 2023-04-15
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Session
 
-Lesson Date: 10/04/2023
+**Lesson Date:** 10/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to enable students to apply the Java Persistence API (JPA) effectively in their database-related projects. The learning objective for this module was as follows:
 
@@ -25,7 +27,7 @@ Following the practical session, a 15-minute exercise was given to the students,
 
 During the final 30 minutes of the class, I facilitated students' laptops to ensure that their Spring Tools Suite was successfully connected to the database, providing them with a functional environment to work on their JPA implementations.
 
-Reflective Evaluation:
+### Reflective Evaluation
 Some students encountered errors during the practical session due to various reasons. These included creating the model class in a different package from the actual application implementation, forgetting to include the necessary @Entity and @Table annotations, connectivity issues to the internet even though it was emphasized that the MySQL server database.jailanirahman.com is hosted in Singapore, failure to install Spring JPA and the MySQL connector due to absence from previous sessions, and common basic Java mistakes.
 
 The most concerning issues were reasons #3 and #5, as they indicate a lack of a solid grasp on the basics that were covered in earlier semesters. To address this, additional support and reinforcement of foundational Java concepts will be provided to ensure students have a strong foundation moving forward. Furthermore, it will be emphasized that connectivity to the internet is crucial for accessing necessary resources and dependencies.
@@ -36,7 +38,9 @@ To mitigate such issues in the future, it may be beneficial to conduct a brief r
 
 ## 2. Second Session
 
-Lesson Date: 11/04/2023
+**Lesson Date:** 11/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to enable students to apply the Java Persistence API (JPA) effectively in their database-related projects. The learning objective for this module was as follows:
 
@@ -47,7 +51,7 @@ During the practical session, which lasted for 1 hour 30 minutes, I demonstrated
 
 Following the practical session, a 30-minute exercise was given to the students, requiring them to complete the CRUD (Create, Read, Update, Delete) implementation for the Group class.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the session, I realized that there was an issue with the code from the previous exercise that could potentially cause problems in this session. I spent 30 minutes rectifying the code to prevent any issues from arising. As a result, I was unable to cover the topics of deleting and updating data in this session. I will ensure to cover these topics in the next session to ensure students have a comprehensive understanding of all CRUD operations in JPA.
 
 To improve the flow and efficiency of future sessions, it is important to thoroughly review and test the exercises in advance to identify any potential issues or conflicts with the subsequent sessions. Additionally, providing clear instructions and code templates for the exercises can help streamline the implementation process and allow more time for covering additional topics.

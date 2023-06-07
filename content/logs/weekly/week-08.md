@@ -1,5 +1,5 @@
 ---
-title: "Week 08"
+title: "Teaching Practice Week 08"
 date: 2023-03-11
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Session
 
-Lesson Date: 06/03/2023
+**Lesson Date:** 06/03/2023
+
+### Lesson
 
 The objective of this lesson plan was to help students understand and implement the model component of the Spring Framework. The learning objective for this module was as follows:
 
@@ -23,7 +25,7 @@ During the lecture session, I explained the concept of the Spring Model and intr
 
 During the practical session, I facilitated the implementation of a student management system, building upon the concepts covered in the lecture.
 
-Reflective Evaluation:
+### Reflective Evaluation
 I overestimated the length of the lecture, as it only took 1 hour instead of the planned 1 hour and 30 minutes. However, I utilized the extra 30 minutes effectively by providing more in-depth explanations and discussions with the students, particularly regarding the video on Thymeleaf and its capabilities. This allowed for a better understanding and appreciation of the potential applications of Thymeleaf in web development.
 
 Moving forward, I will ensure to adjust the duration of the lecture accordingly to maintain an optimal pace for the students. Additionally, I will continue to provide supplemental resources, such as videos, to enhance the learning experience and provide further insights into the topics covered.
@@ -32,7 +34,9 @@ Moving forward, I will ensure to adjust the duration of the lecture accordingly 
 
 ## 2. Second Session
 
-Lesson Date: 07/03/2023
+**Lesson Date:** 07/03/2023
+
+### Lesson
 
 The objective of this lesson plan was to ensure that students are on the right track for Assignment 1 and to facilitate the implementation of a student management system. The learning objectives for this module were as follows:
 
@@ -43,7 +47,7 @@ During the consultation session, I provided an opportunity for students to consu
 
 During the practical session, I facilitated the implementation of a student management system, building upon the concepts covered in previous lessons and lectures.
 
-Reflective Evaluation:
+### Reflective Evaluation
 Some students encountered difficulties in collaborating using GitHub, particularly with merge conflicts. However, with proper guidance and assistance, students were able to resolve these issues and gain a better understanding of version control and collaborative development practices. Another common issue observed was the inability to pull updates from the repository. Upon investigation, it was found that students had not committed their code before attempting to pull updates.
 
 To address these challenges, I encouraged students to come and see me even during the semester break for any issues they encounter with the assignment and GitHub. By providing ongoing support and guidance, I aim to ensure that students can overcome any obstacles they face and successfully complete their assignments.

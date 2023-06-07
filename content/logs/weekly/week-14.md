@@ -1,5 +1,5 @@
 ---
-title: "Week 14"
+title: "Teaching Practice Week 14"
 date: 2023-04-22
 draft: false
 author: "Jailani Rahman"
@@ -12,7 +12,9 @@ toc:
 
 ## 1. First Session
 
-Lesson Date: 17/04/2023
+**Lesson Date:** 17/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to apply the Java Persistence API (JPA) and ensure that students were on track with Assignment 2. The learning objectives for this module were as follows:
 
@@ -26,7 +28,7 @@ Following the practical session, a 30-minute exercise was given to the students,
 
 To ensure that students were progressing well with their assignments, a 1-hour group consultation session was conducted. During this time, students were given the opportunity to seek assistance and polish their solutions for Assignment 2. This consultation session aimed to provide personalized guidance and support to students, addressing any challenges or questions they had regarding the assignment.
 
-Reflective Evaluation:
+### Reflective Evaluation
 During the session, it was evident that some students had missed the previous class, which resulted in them facing difficulties in keeping up with the topics covered. To address this issue, I provided additional resources and guidance to help them catch up. However, considering the time constraints and the upcoming deadline for their IT project proposals, I decided to ask for approval from the program leader to extend the Assignment 2 deadline to 8th May 2023. I am pleased to mention that the extension was approved on the same day, providing students with more time to complete their assignments effectively.
 
 To enhance future sessions, it is crucial to encourage students to attend all classes consistently, as missing sessions can hinder their progress and understanding of the subject matter. Additionally, ensuring that students have a solid foundation in the previous topics covered can prevent any gaps in their knowledge and facilitate smoother transitions between lessons.
@@ -37,7 +39,9 @@ Overall, the session was productive, and students were able to grasp the concept
 
 ## 2. Second Session
 
-Lesson Date: 18/04/2023
+**Lesson Date:** 18/04/2023
+
+### Lesson
 
 The objective of this lesson plan was to ensure that students were on the right track with their Assignment 2. The learning objective for this session was as follows:
 
@@ -46,7 +50,7 @@ The activity included in this lesson plan was a group consultation session, whic
 
 During the group consultation session, students were given the opportunity to consult with me and polish up their solutions for Assignment 2. The purpose of this session was to provide guidance, answer questions, and address any concerns or challenges students were facing in relation to the assignment. It aimed to ensure that students were moving in the right direction and had a clear understanding of the requirements and expectations.
 
-Reflective Evaluation:
+### Reflective Evaluation
 The majority of the groups demonstrated a good understanding of what they wanted to implement for their Assignment 2. During the consultation session, my role mainly involved guiding them on how to proceed with their plans, providing suggestions for improvement, and clarifying any doubts they had.
 
 However, some groups encountered unexpected issues during the session. GitHub unexpectedly added a README file into their repository, which caused problems for other students trying to collaborate on the code. This issue disrupted the collaborative workflow and required troubleshooting and resolution. To address this, I provided assistance and guidance on how to remove the unwanted README file and restore the normal functioning of the repository.
