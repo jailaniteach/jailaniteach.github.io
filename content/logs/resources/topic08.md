@@ -10,11 +10,29 @@ toc:
 
 ## 8. MySQL
 
-### 8.1. SQL I
+### 8.1. Lecture Notes
+#### 8.1.1. SQL I
 <div>{{<embed-pdf url="../resources/08a - Structured Query Language I.pdf">}}</div>
 
-### 8.2. SQL II
+#### 8.1.2. SQL II
 <div>{{<embed-pdf url="../resources/08b - Structured Query Language II.pdf">}}</div>
 
-### 8.3. SQL III
+#### 8.1.3. SQL III
 <div>{{<embed-pdf url="../resources/08c - Structured Query Language III.pdf">}}</div>
+
+### 8.2. Practicals
+
+#### 8.2.1. Creating Tables
+![](../resources/08d%20-%20Structured%20Query%20Language%20Exercise%20I.png)
+
+![](../resources/08e%20-%20Structured%20Query%20Language%20Exercise%20II.png)
+
+![](../resources/08f%20-%20Structured%20Query%20Language%20Exercise%20III.png)
+
+#### 8.2.2. Adding Data
+
+![](../resources/08g%20-%20Structured%20Query%20Language%20Exercise%20IV.png)
+
+#### 8.2.3. Retrieving, Editing and Deleting Data
+
+![](../resources/08g%20-%20Structured%20Query%20Language%20Exercise%20V.png)
