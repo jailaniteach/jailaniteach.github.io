@@ -1,6 +1,6 @@
 ---
 title: "Students' Results & Attendance"
-date: 2023-01-09
+date: 2023-06-09
 draft: false
 author: "Jailani Rahman"
 image: /images/resultattendance.png
