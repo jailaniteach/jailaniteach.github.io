@@ -12,6 +12,8 @@ toc:
 
 ## 5. Java Sockets
 
+These resources are used in <a href="/logs/weekly/week-05">PB academic week 04</a> and <a href="/logs/weekly/week-06">PB academic week 05</a>.
+
 ---
 
 ### 5.1. Lecture Notes

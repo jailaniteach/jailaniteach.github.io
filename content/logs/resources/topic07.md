@@ -12,6 +12,8 @@ toc:
 
 ## 7. Database
 
+These resources are used in <a href="/logs/weekly/week-11">PB academic week 10</a>.
+
 ---
 
 ### 7.1. Lecture Notes

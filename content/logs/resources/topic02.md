@@ -12,6 +12,8 @@ toc:
 
 ## 2. Git
 
+These resources are used in <a href="/logs/weekly/week-02">PB academic week 01</a> and <a href="/logs/weekly/week-03">PB academic week 02</a>.
+
 ---
 
 ### 2.1. Lecture Notes

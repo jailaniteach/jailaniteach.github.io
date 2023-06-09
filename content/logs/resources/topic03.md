@@ -12,6 +12,8 @@ toc:
 
 ## 3. Introduction to Network Programming
 
+These resources are used in <a href="/logs/weekly/week-04">PB academic week 03</a>.
+
 <div>{{<embed-pdf url="../resources/03 - Introduction to Network Programming.pdf">}}</div>
 
 ---

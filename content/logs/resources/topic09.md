@@ -12,6 +12,8 @@ toc:
 
 ## 9. Java Persistence API
 
+These resources are used in <a href="/logs/weekly/week-12">PB academic week 11</a>, <a href="/logs/weekly/week-13">PB academic week 12</a> and  <a href="/logs/weekly/week-14">PB academic week 13</a>.
+
 ---
 
 ### 9.1. Lecture Notes

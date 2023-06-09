@@ -12,6 +12,8 @@ toc:
 
 ## 8. MySQL
 
+These resources are used in <a href="/logs/weekly/week-11">PB academic week 10</a> and <a href="/logs/weekly/week-12">PB academic week 11</a>.
+
 ---
 
 ### 8.1. Lecture Notes

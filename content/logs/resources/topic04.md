@@ -12,6 +12,8 @@ toc:
 
 ## 4. Java Binary Input & Output
 
+These resources are used in <a href="/logs/weekly/week-04">PB academic week 03</a>.
+
 ---
 
 ### 4.1. Lecture Notes

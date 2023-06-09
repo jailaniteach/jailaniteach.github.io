@@ -12,6 +12,8 @@ toc:
 
 ## 10. Revision
 
+These resources are used in <a href="/logs/weekly/week-17">PB academic week 16</a>.
+
 ---
 
 ### 10.1. Sample Exam Questions

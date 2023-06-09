@@ -12,6 +12,8 @@ toc:
 
 ## 1. Module Induction
 
+These resources are used in <a href="/logs/weekly/week-02">PB academic week 01</a>.
+
 For module induction, Politeknik Brunei's Learning Management Systems module's page is used to explain about the module.
 
 <br>

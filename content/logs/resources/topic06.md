@@ -12,6 +12,8 @@ toc:
 
 ## 6. Java Web Application
 
+These resources are used in <a href="/logs/weekly/week-07">PB academic week 06</a>, <a href="/logs/weekly/week-08">PB academic week 07</a> and <a href="/logs/weekly/week-10">PB academic week 09</a>.
+
 ---
 
 ### 6.1. Lecture Notes
