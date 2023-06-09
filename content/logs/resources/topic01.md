@@ -8,15 +8,31 @@ description: ""
 toc:
 ---
 
+---
+
 ## 1. Module Induction
 
 For module induction, Politeknik Brunei's Learning Management Systems module's page is used to explain about the module.
 
+<br>
+
+---
+
 ### 1.1. Information
 ![](../resources/01a-module_guide.png)
+
+<br>
+
+---
 
 ### 1.2. Planned semester
 ![](../resources/01b-module_guide.png)
 
+<br>
+
+---
+
 ### 1.3. Assessment
 ![](../resources/01c-module_guide.png)
+
+---

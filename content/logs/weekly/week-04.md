@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 03</u></div>
 
 ## 1. First Session
@@ -68,3 +70,5 @@ Overall, the lesson plan effectively achieved the learning objective of understa
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK3_MJA.pdf">}}
+
+---

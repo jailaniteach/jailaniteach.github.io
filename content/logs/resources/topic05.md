@@ -8,16 +8,28 @@ description: ""
 toc:
 ---
 
+---
+
 ## 5. Java Sockets
+
+---
 
 ### 5.1. Lecture Notes
 <div>{{<embed-pdf url="../resources/05a - Java Socket.pdf">}}</div>
+
+<br>
+
+---
 
 ### 5.2. Exercises
 
 #### 5.2.1. Exercise 1
 
 <div>{{<embed-pdf url="../resources/05b - Java Socket Exercise I.pdf">}}</div>
+
+<br>
+
+---
 
 #### 5.2.2. Exercise 2
 
@@ -175,6 +187,10 @@ public class GuessingServer {
 	
 }
 ```
+
+<br>
+
+---
 
 ### 5.3. Practicals
 
@@ -431,3 +447,5 @@ public class CircleSessionHandler implements Runnable {
 
 }
 ```
+
+---

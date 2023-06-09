@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Preparation Week</u></div>
 
 ## 1. Description
@@ -30,12 +32,19 @@ On the same week, conduct Politeknik Brunei's Admission System training for Cikg
 <br/><br/>
 More details of this training can be found <a href="/activities/pbas-training"> here</a>.
 
-<br/><br/>
+<br>
+
+---
 
 ### 1.1. Scheme of Work Document
 <div id="nep_sow">{{<embed-pdf url="../resources/NS4307_NEP_SOW.pdf">}}</div>
 <br/><br/>
 
+<br>
+
+---
+
 ### 1.2. Tentative 16 weeks of weekly lesson plan
 <div id="nep_wlp_init">{{<embed-pdf url="../resources/NS4307_NEP_WLP_INITIAL.pdf">}}</div>
 
+---

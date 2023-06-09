@@ -8,7 +8,11 @@ description: ""
 toc:
 ---
 
-**Reflections from February 2023**
+---
+
+**Weekly reflections from February 2023 as per requested**
+
+---
 
 ## Teaching Practice Week 04
 
@@ -18,6 +22,10 @@ It was a good idea to recap some of the Basic Networking concepts that are relev
 
 In terms of administrative work, I had to give consultations in regards to Politeknik Brunei's Admission System (PBAS).
 
+<br>
+
+---
+
 ## Teaching Practice Week 05
 
 **Date:** 13/02/2023 - 19/02/2023
@@ -25,6 +33,10 @@ In terms of administrative work, I had to give consultations in regards to Polit
 I was observed by TVET supervisor this week. The comments received are constructive. Will integrate them to my future lesson.
 
 Tried to incorporate basic knowledge of Java programming on top of the topics that I need to cover. Had to spent more time on the practical session because of this.
+
+<br>
+
+---
 
 ## Teaching Practice Week 06
 
@@ -35,6 +47,10 @@ Underestimated my practical session where based on the preparation made it was p
 I was involved with PB's open day this week. Had to entertained potential applicants by explaining about Application Development and Web Technologies programmes. Since these are new programmes, I had to review back what these programmes are about to make sure I accurately explain them.
 
 More consultation for PBAS again for this week.
+
+<br>
+
+---
 
 ## Teaching Practice Week 07
 
@@ -50,6 +66,10 @@ Another issue is due to Spring Tools Suite (the integrated development environme
 
 It was a challenging week, but since all the students managed to get their computer working, next week should be better.
 
+<br>
+
+---
+
 ## Teaching Practice Week 08
 
 **Date:** 06/03/2023 - 12/03/2023
@@ -60,11 +80,19 @@ I enforced students to use GitHub for their assignment submission. Students were
 
 Had allocate more time to help students resolve issues in regards to GitHub.
 
+<br>
+
+---
+
 ## Teaching Practice Week 09
 
 **Date:** 13/03/2023 - 19/03/2023
 
 Had assignment consultations with the students online through Microsoft Teams. It was a good initiative from the students to be proactive in doing their assignment even though this week is semester break.
+
+<br>
+
+---
 
 ## Teaching Practice Week 10
 
@@ -76,6 +104,10 @@ I am marking the students first assignment during this week. Noticed that a few 
 
 School of Information and Communication Technologies (SICT) is having tahlil event for this week. I attended the event and during the event, I also socialised with SICT staffs.
 
+<br>
+
+---
+
 ## Teaching Practice Week 11
 
 **Date:** 27/03/2023 - 02/04/2023
@@ -86,11 +118,19 @@ Decided to incorporate the relevant concept of database in the practical session
 
 I am marking the students first assignment as well during this week. It is gratifying seeing some students solutions went beyong what I expected their solutions to be.
 
+<br>
+
+---
+
 ## Teaching Practice Week 12
 
 **Date:** 03/04/2023 - 09/04/2023
 
 The problem of using Maven as a dependency management system is that when there is an internet issue during downloading the dependencies the code will not work. So had to guide the students how to resolve this issues. The downside of this is that the students had to redownload the dependencies again from the beginning. I should have prepared an offline version containing all the dependencies so that students could just copy the file offline instead of downloading them again.
+
+<br>
+
+---
 
 ## Teaching Practice Week 13
 
@@ -102,6 +142,10 @@ Just realised that during the exercise code will caused some issue for my practi
 
 I was observed again this session, but due to the nature of this week lesson, I am unable to conduct lesson according to the suggestion given during the first observation.
 
+<br>
+
+---
+
 ## Teaching Practice Week 14
 
 **Date:** 17/04/2023 - 23/04/2023
@@ -110,17 +154,29 @@ I had to extend the assignment deadline to 8th May 2023. This was due to student
 
 Another reason why I extended as well was due to some concept is not covered completely last week and had to covered this week instead.
 
+<br>
+
+---
+
 ## Teaching Practice Week 15
 
 **Date:** 24/04/2023 - 30/04/2023
 
 Nothing to reflect for this week due to Hari Raya Aidilfitri public holiday this week.
 
+<br>
+
+---
+
 ## Teaching Practice Week 16
 
 **Date:** 01/05/2023 - 07/05/2023
 
 Same as the first assignment, I had to actively help the students with their GitHub issues. For this second assignment, GitHub somehow added a file to the students' GitHub repository during it's creation which caused major issues towards the students using GitHub. I am not sure what happened as I configured GitHub for the students the same way as the first assignment. It is quite frustrating when technologies does not cooperate with you.
+
+<br>
+
+---
 
 ## Teaching Practice Week 17
 
@@ -132,6 +188,10 @@ I was observed this week and I managed to integrate the recommendations given to
 
 I am marking students second assignments this week.
 
+<br>
+
+---
+
 ## Teaching Practice Week 18
 
 **Date:** 15/05/2023 - 21/05/2023
@@ -142,11 +202,19 @@ Using this chance of not having a formal class to attend United National Network
 
 Attended the PB town hall as well. Managed to get up to date with the current status of PB since I have been away for in-service in TVET Academy.
 
+<br>
+
+---
+
 ## Teaching Practice Week 19
 
 **Date:** 22/05/2023 - 28/05/2023
 
 This week is the examination week for network programming module. I had to actively went to the venue just in case the students have any questions about the examination paper. Then this week as well, I am marking the examination paper for this network programming module. Based on the students' performance, it looks like the students managed to captured the important concepts of network programming. It gave me a good feedback on where I could improve further in the future.
+
+<br>
+
+---
 
 ## Teaching Practice Week 20
 
@@ -156,8 +224,14 @@ Had to process students who were absent with valid reason from last week examina
 
 During this week as well, helped students that failed the first attempt examination to revise for their resit examination which will be held next week.
 
+<br>
+
+---
+
 ## Teaching Practice Week 21
 
 **Date:** 05/06/2023 - 10/06/2023
 
 This week is the resit examination week for network programming module. A few students failed the first attempt examination, where they need to sit for this resit examination. Again, I had to actively went to the venue just in case the students have any questions about the resit examination paper. Then after the resit examination, proceed to mark the papers. All resit students passed their resit examinations for network programming.
+
+---

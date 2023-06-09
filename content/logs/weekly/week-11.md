@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 10</u></div>
 
 ## 1. First Lesson
@@ -36,6 +38,9 @@ In future sessions, I will allocate more time for exercise discussions and ensur
 
 Moving forward, I will continue to create an engaging learning environment and provide resources that support students' understanding of handling HTTP requests. I will also encourage students to seek clarification and assistance whenever they encounter difficulties, ensuring that their learning experience remains productive and effective.
 
+<br>
+
+---
   
 ## 2. Second Lesson
 
@@ -63,3 +68,5 @@ Furthermore, I will continue to explore additional resources and teaching materi
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK10_MJA.pdf">}}
+
+---

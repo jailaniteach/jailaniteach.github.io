@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 07</u></div>
 
 ## 1. First Session
@@ -58,3 +60,5 @@ Moving forward, I will continue to emphasize the importance of committing change
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK7_MJA.pdf">}}
+
+---

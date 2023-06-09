@@ -8,16 +8,28 @@ description: ""
 toc:
 ---
 
+---
+
 ## Assignment 01
+
+---
 
 ### Brief
 
 <div>{{<embed-pdf url="../resources/as02/Assignment01_Brief.pdf">}}</div>
 
+<br>
+
 ### Marking Scheme
 
 <div>{{<embed-pdf url="../resources/as02/Assignment01_MarkingScheme.pdf">}}</div>
 
+<br>
+
+---
+
 ## Verification
 
 <div>{{<embed-pdf url="../resources/as02/Assignment01_Verification.pdf">}}</div>
+
+---

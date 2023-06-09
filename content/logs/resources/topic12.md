@@ -8,6 +8,10 @@ description: ""
 toc:
 ---
 
+---
+
 ## 12. Resource Verification
 
 <div>{{<embed-pdf url="../resources/12 - Resources Verification.pdf">}}</div>
+
+---

@@ -8,10 +8,18 @@ description: ""
 toc:
 ---
 
+---
+
 ## 2. Git
+
+---
 
 ### 2.1. Lecture Notes
 <div>{{<embed-pdf url="../resources/02a - Git.pdf">}}</div>
+
+<br>
+
+---
 
 ### 2.2. Exercises
 <div>{{<embed-pdf url="../resources/02b - Git Exercise I.pdf">}}</div>
@@ -21,3 +29,5 @@ toc:
 <div>{{<embed-pdf url="../resources/02f - Git Exercise V.pdf">}}</div>
 <div>{{<embed-pdf url="../resources/02g - Git Exercise VI.pdf">}}</div>
 <div>{{<embed-pdf url="../resources/02h - Git Exercise VII.pdf">}}</div>
+
+---

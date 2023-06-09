@@ -1,5 +1,5 @@
 ---
-title: "Observation Comments"
+title: "Observation Feedback and Comments"
 date: 2023-05-13
 draft: false
 author: "Jailani Rahman"
@@ -7,6 +7,10 @@ image: /images/observation.png
 description: ""
 toc:
 ---
+
+---
+
+## Observation Feedback and Comments
 
 In general, the feedback I received from my supervisor and mentor regarding my lesson planning, lesson delivery, knowledge competence, classroom management, teaching aids, observation, self-reflection, and development has been mainly positive. However, there are areas for improvement that we will discuss based on these feedbacks.
 
@@ -21,3 +25,5 @@ The fourth feedback is that I lack positive reinforcement when students answer m
 The last feedback that I would like to discuss is the lack of videos or pictures of real-world applications that can be implemented from the concepts we learn. Referring to the first feedback, I could have used this approach if there were no model examples that could be run and shown to the students.
 
 From these five feedbacks, it is apparent that there are still a lot of improvements that can be done to my teaching, even with my 9 years of teaching experience. These could have gone unnoticed if they were not observed by others. That means as a teacher, having my lessons observed is important if I want to improve my teaching. I must have the right mindset as well.
+
+---

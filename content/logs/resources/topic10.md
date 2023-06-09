@@ -8,10 +8,20 @@ description: ""
 toc:
 ---
 
+---
+
 ## 10. Revision
+
+---
 
 ### 10.1. Sample Exam Questions
 <div>{{<embed-pdf url="../resources/10a - Sample Exam Questions.pdf">}}</div>
 
+<br>
+
+---
+
 ### 10.2. Past Year Paper
 <div>{{<embed-pdf url="../resources/10b - Past Year Paper.pdf">}}</div>
+
+---

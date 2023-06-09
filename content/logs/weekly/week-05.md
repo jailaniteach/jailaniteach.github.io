@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 04</u></div>
 
 ## 1. First Session
@@ -33,6 +35,9 @@ However, during the implementation of the server application that handled multip
 
 Overall, the lesson plan effectively achieved the learning objectives of understanding client-server applications and implementing basic client-server functionality. Reflecting on the session, I recognize the importance of adapting examples and exercises to address students' comprehension challenges. Additionally, I have learned that a careful approach to code organization and implementation demonstration can significantly impact students' understanding and reduce confusion during practical sessions. By making these adjustments, I aim to enhance the effectiveness of future lessons on client-server applications.
 
+<br>
+
+---
 
 ## 2. Second Session
 
@@ -60,3 +65,5 @@ Based on these observations, I will incorporate additional exercises and example
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK4_MJA.pdf">}}
+
+---

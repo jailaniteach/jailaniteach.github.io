@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 05</u></div>
 
 ## 1. First Session
@@ -33,6 +35,10 @@ One of the contributing factors to the extended time needed during the practical
 Considering the time constraints and the need to cover the exercise implementation, I made the decision to have the students work on the exercise during the next session. This would allow them more time to understand and implement the rules of the cangkul card game.
 
 In the future, I will allocate more time for practical sessions, taking into account potential challenges and misconceptions that students may face. By providing sufficient time and addressing any misconceptions promptly, I aim to ensure that students have a better understanding of the concepts and are able to complete the implementation within the designated time frame.
+
+<br>
+
+---
 
 ## 2. Second Session
 
@@ -64,3 +70,5 @@ In future instances, I will make a note to ensure that all necessary information
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK5_MJA.pdf">}}
+
+---

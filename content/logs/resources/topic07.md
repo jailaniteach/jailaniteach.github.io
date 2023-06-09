@@ -8,15 +8,29 @@ description: ""
 toc:
 ---
 
+---
+
 ## 7. Database
+
+---
 
 ### 7.1. Lecture Notes
 #### 7.1.1. Database I
 <div>{{<embed-pdf url="../resources/07a - Fundamentals of Database Management Systems.pdf">}}</div>
 
+<br>
+
+---
+
 #### 7.1.2. Database II
 <div>{{<embed-pdf url="../resources/07b - Database Design and Entity Relationship Model.pdf">}}</div>
+
+<br>
+
+---
 
 ### 7.2. Practicals
 
 Making sure the students can access <a href="https://database.jailanirahman.com/phpmyadmin">the MySQL server the lecturer set up.</a>
+
+---

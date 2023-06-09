@@ -8,13 +8,25 @@ description: ""
 toc:
 ---
 
+---
+
 ## 4. Java Binary Input & Output
+
+---
 
 ### 4.1. Lecture Notes
 <div>{{<embed-pdf url="../resources/04a - JavaIO.pdf">}}</div>
 
+<br>
+
+---
+
 ### 4.2. Exercises
 <div>{{<embed-pdf url="../resources/04b - Java IO Exercise.pdf">}}</div>
+
+<br>
+
+---
 
 ### 4.3. Practicals
 
@@ -63,6 +75,10 @@ public class LearningFileOutputStream {
 	
 }
 ```
+
+<br>
+
+---
 
 #### 4.3.2. Practical 2
 
@@ -194,3 +210,5 @@ public class Group implements Serializable {
 	
 }
 ```
+
+---

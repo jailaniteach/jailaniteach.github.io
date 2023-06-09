@@ -8,6 +8,8 @@ description: ""
 toc:
 ---
 
+---
+
 <div class="h1"><u>PB Academic Week 09</u></div>
 
 ## 1. First Session
@@ -36,6 +38,10 @@ Furthermore, some students forgot to include the @Component annotation on their 
 
 Moving forward, I will provide additional examples and hands-on exercises to reinforce the concepts of data repositories and their integration with controllers and Thymeleaf templates. I will also encourage regular coding practice to ensure that students retain their understanding of the concepts and develop proficiency in implementing data repositories.
 
+<br>
+
+---
+
 ## 2. Second Session
 
 **Lesson Date:** 21/03/2023
@@ -63,3 +69,5 @@ Moving forward, I will incorporate more interactive activities and practical exe
 
 ## 3. Lesson Plan
 {{<embed-pdf url="../resources/NEP_LP_S2_23_WK9_MJA.pdf">}}
+
+---
