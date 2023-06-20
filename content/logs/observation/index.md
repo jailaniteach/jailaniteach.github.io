@@ -26,4 +26,44 @@ The last feedback that I would like to discuss is the lack of videos or pictures
 
 From these five feedbacks, it is apparent that there are still a lot of improvements that can be done to my teaching, even with my 9 years of teaching experience. These could have gone unnoticed if they were not observed by others. That means as a teacher, having my lessons observed is important if I want to improve my teaching. I must have the right mindset as well.
 
+<br>
+
+---
+
+## Observation Form from Mentor
+
+### First observation
+
+<div>{{<embed-pdf url="./resources/mentor_observation_01.pdf">}}</div>
+
+<br>
+
+---
+### Second observation
+
+<div>{{<embed-pdf url="./resources/mentor_observation_02.pdf">}}</div>
+
+<br>
+
+---
+### Third observation
+
+<div>{{<embed-pdf url="./resources/mentor_observation_03.pdf">}}</div>
+
+<br>
+
+---
+### Fourth observation
+
+<div>{{<embed-pdf url="./resources/mentor_observation_04.pdf">}}</div>
+
+<br>
+
+---
+### Fifth observation
+
+<div>{{<embed-pdf url="./resources/mentor_observation_05.pdf">}}</div>
+
+<br>
+
 ---
